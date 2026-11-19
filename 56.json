@@ -1,8 +1,8 @@
 {
   "name": "Elfil #056",
   "description": "Elfil Buyer pass: 100 in total, reserved for presale buyers of the Elysia Collection.",
-  "image": "https://YOUR-DOMAIN/images/Elfil.gif",
-  "external_url": "https://YOUR-DOMAIN",
+  "image": "https://elysialunar.github.io/ElysiaCollection/elfil.gif",
+  "external_url": "https://elysialunar.github.io/ElysiaCollection",
   "attributes": [
     {
       "trait_type": "Collection",

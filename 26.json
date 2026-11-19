@@ -1,8 +1,8 @@
 {
   "name": "Elysia #026",
   "description": "Elysia Founder pass: the rarest tier of the Elysia Collection. 30 in total, earned through the social quest.",
-  "image": "https://YOUR-DOMAIN/images/Elysia.gif",
-  "external_url": "https://YOUR-DOMAIN",
+  "image": "https://elysialunar.github.io/ElysiaCollection/elysia.gif",
+  "external_url": "https://elysialunar.github.io/ElysiaCollection",
   "attributes": [
     {
       "trait_type": "Collection",
