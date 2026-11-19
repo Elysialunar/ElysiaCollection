@@ -1,0 +1,39 @@
+{
+  "name": "Elfil #094",
+  "description": "Elfil Buyer pass: 100 in total, reserved for presale buyers of the Elysia Collection.",
+  "image": "https://YOUR-DOMAIN/images/Elfil.gif",
+  "external_url": "https://YOUR-DOMAIN",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Elysia Collection"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Elfil (Buyer)"
+    },
+    {
+      "trait_type": "Phase",
+      "value": "Phase 2"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free (Whitelist - Presale Buyers)"
+    },
+    {
+      "trait_type": "Tier Supply",
+      "display_type": "number",
+      "value": 100
+    },
+    {
+      "trait_type": "Total Supply",
+      "display_type": "number",
+      "value": 580
+    },
+    {
+      "trait_type": "Staking Reward (SIA / day)",
+      "display_type": "number",
+      "value": 300
+    }
+  ]
+}

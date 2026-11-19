@@ -1,0 +1,39 @@
+{
+  "name": "Elysia #017",
+  "description": "Elysia Founder pass: the rarest tier of the Elysia Collection. 30 in total, earned through the social quest.",
+  "image": "https://YOUR-DOMAIN/images/Elysia.gif",
+  "external_url": "https://YOUR-DOMAIN",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Elysia Collection"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Elysia (Founder)"
+    },
+    {
+      "trait_type": "Phase",
+      "value": "Phase 1"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Free (Whitelist - Social Quest)"
+    },
+    {
+      "trait_type": "Tier Supply",
+      "display_type": "number",
+      "value": 30
+    },
+    {
+      "trait_type": "Total Supply",
+      "display_type": "number",
+      "value": 580
+    },
+    {
+      "trait_type": "Staking Reward (SIA / day)",
+      "display_type": "number",
+      "value": 500
+    }
+  ]
+}
