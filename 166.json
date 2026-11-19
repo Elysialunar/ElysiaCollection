@@ -1,0 +1,39 @@
+{
+  "name": "Luner #166",
+  "description": "Luner Explorer pass: 450 in total, open to the public in the Elysia Collection.",
+  "image": "https://elysialunar.github.io/ElysiaCollection/luner.png",
+  "external_url": "https://elysialunar.github.io/ElysiaCollection",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Elysia Collection"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Luner (Explorer)"
+    },
+    {
+      "trait_type": "Phase",
+      "value": "Phase 3"
+    },
+    {
+      "trait_type": "Mint",
+      "value": "Public Sale"
+    },
+    {
+      "trait_type": "Tier Supply",
+      "display_type": "number",
+      "value": 450
+    },
+    {
+      "trait_type": "Total Supply",
+      "display_type": "number",
+      "value": 580
+    },
+    {
+      "trait_type": "Staking Reward (SIA / day)",
+      "display_type": "number",
+      "value": 150
+    }
+  ]
+}
